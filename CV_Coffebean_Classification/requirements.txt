@@ -1,0 +1,13 @@
+Danh sách các thư viện Python mà bạn đã sử dụng trong toàn bộ bài tập (cả phần huấn luyện, đánh giá và làm giao diện demo) gồm có:
+
+torch (PyTorch): Thư viện học sâu (Deep Learning) chính để xây dựng và nạp trọng số mô hình ResNet50.
+
+torchvision: Thư viện chuyên xử lý ảnh, hỗ trợ gọi kiến trúc mạng ResNet50 có sẵn và tiền xử lý dữ liệu (transforms).
+
+scikit-learn (sklearn): Thư viện dùng để tính toán các chỉ số và vẽ Ma trận nhầm lẫn (confusion_matrix).
+
+matplotlib: Thư viện trực quan hóa, dùng để vẽ biểu đồ và hiển thị ma trận nhầm lẫn.
+
+Pillow (PIL): Thư viện nền tảng để mở, đọc và xử lý định dạng tệp hình ảnh.
+
+gradio: Thư viện dùng để xây dựng giao diện Web demo trực quan
